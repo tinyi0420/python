@@ -8,3 +8,8 @@ print(2 ** 512)
 v4 = 37
 print(f"v4={v4},as binary:{v4:b}")
 print(f"v4 as Oct={v4:o}, as hex={v4:x}")
+b5=0b100
+b6=0o100
+b7=0*100
+b8=100
+print(b5,b6,b7,b8)
