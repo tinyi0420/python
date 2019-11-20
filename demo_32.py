@@ -1,0 +1,7 @@
+l1=list('JKSDHFJSNDFNSKFJcmkdfjsnfks')
+l1.sort()
+print(l1)
+l1.sort(reverse=True)
+print(l1)
+l1.sort(key=str.lower)
+print(l1)
